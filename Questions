@@ -24,3 +24,8 @@ Questions for Network operators;
 9) secureity compliance questions
 10) How are hardware faults and firmware bugs processed?
 11) what commitment is given to maintain the network hardware and firmware/BSP up to date?
+12) what fade margin is useds for coverage planning? (ITU recommendation?)
+13) what expected environmental noise floor figure is used for coverage planning?
+14) What measures are used to mitigate the effects of a non-duplex gateway not being able to RX uplink traffic and send downlink traffic at the same time?
+15) What engineering measures are employed to maintain gateway performance when co-located with Cellular base stations (coex)?
+16) 
