@@ -10,7 +10,7 @@ For the end-device to operate for the planned life-cycle;
 7) Describe the join process and back-off cycle for failed join attempts including the spreading factors and power levels used during join.
 8) LoRaWAN® EU Supplementary Device Info Questionnaire answers
 9) Which LoRaWAN technical recommendations are not implemented in the device, andf why ? https://lora-alliance.org/wp-content/uploads/2021/05/TR007_Developing_LoRaWAN_Devices-v1.0.0.pdf
-10)
+10) Is it recommended to fit the device in a meter pit, chamber of X dimentions?
 
 Questions for Network operators;
 1) How do you verify RF coverage to satisify the SLA. KPI?
